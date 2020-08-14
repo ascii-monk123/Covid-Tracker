@@ -1,0 +1,6 @@
+.Container {
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}

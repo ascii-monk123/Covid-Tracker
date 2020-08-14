@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Classes from './Tracker.module.css';
-import Aux from '../../HOC/Auxillary/Aux';
+import Aux from '../../HOC/Auxillary/Auxillary';
 import { fetchData, fetchCountries } from '../API/Api';
 import Cards from '../Cards/Cards';
 import SelectCountry from '../SelectCountry/SelectCountry';
